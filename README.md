@@ -49,17 +49,16 @@ In this project, we'll simulate various scenarios to enhance our understanding o
 <h1>Scenarios</h1>
 
 <h3>1️⃣ User Account Creation </h3>
+
+*<h4>BACKGROUND:</h4>*
+
+- A new software developer, John Smith, has been hired to join the IT department at your company.
+
+- As part of the onboarding process, the IT help desk needs to **Create a New User Account** for John in **Active Directory**.
 <br>
 
-*<h4>Background:</h4>*
 
-A new software developer, John Smith, has been hired to join the IT department at your company.
-
-As part of the onboarding process, the IT help desk needs to **Create a New User Account** for John in **Active Directory**.
-<br>
-<br>
-
-➜ First **Create a New User Account** named *John Smith* with the Username "*john_smith*" and a Temporary Password.
+🔸 First **Create a New User Account** named *John Smith* with the Username "*john_smith*" and a Temporary Password.
 
 <img width="324" alt="john smith" src="https://github.com/franciscovfonseca/Active-Directory-Practical-Scenario-Simulation/assets/172988970/090466f7-bb0a-418d-93de-e24dee6e9418">
 <br>
@@ -70,64 +69,94 @@ As part of the onboarding process, the IT help desk needs to **Create a New User
 
 <img width="324" alt="john smith" src="https://github.com/franciscovfonseca/Active-Directory-Practical-Scenario-Simulation/assets/172988970/b04b9990-c04c-4808-9218-498b7b7dac98">
 <br>
-
-Assign John to the "Developers" security group in Active Directory.
-
-<img width="340" alt="developers" src="https://github.com/kirkgacias/ad-scenario-simulation/assets/158519921/a1f6ef6a-5c02-41c5-a331-eddde3b2e0f0">
-
-<p><strong>.</strong></p>
-<p><strong>.</strong></p>
+<br>
 
 
-<p><strong>Then ensure that John's account is located in the appropriate Organizational Unit (OU) for IT staff.</strong></p>
+Assign John to the "***Developers***" Security Group in Active Directory.
 
-<img width="340" alt="check" src="https://github.com/kirkgacias/ad-scenario-simulation/assets/158519921/3344b604-0705-45d7-8e22-90fc583bf55a">
+<img width="340" alt="developers" src="https://github.com/franciscovfonseca/Active-Directory-Practical-Scenario-Simulation/assets/172988970/08ed3545-24ff-4002-a044-9a75b8edff4c">
 
 <br>
 <br>
+<br>
 
-- Communicate the login credentials and temporary password to John through a secure channel.
-- Document the date and time of account creation for auditing purposes.
+🔸 Then ensure that **John's Account** is located in the appropriate **Organizational Unit (OU)** for the IT staff (***Developers***):
+
+<img width="340" alt="check" src="https://github.com/franciscovfonseca/Active-Directory-Practical-Scenario-Simulation/assets/172988970/ec0f5e0e-f753-49ef-bcd8-429305fdaed0">
+
+<br>
+<br>
+<br>
+
+➜ Communicate the **Login Credentials** and **Temporary Password** to John through a secure channel.
+
+➜ Document the **Date and Time of Account Creation** for auditing purposes.
   
-<h4>Considerations:</h4>
+<br>
 
-- The temporary password should meet the company's password policy requirements.
-- Ensure that John has the necessary permissions and group memberships to access the resources required for his role.
 
-<h3>&#9313; Password Reset </h3>
+*<h4>CONSIDERATIONS:</h4>*
 
-<h4>Background:</h4>
+✔ The Temporary Password should meet the Company's Password Policy Requirements.
 
-<p> Sarah Thompson, a marketing executive, contacts the IT help desk reporting that she has forgotten her password and is unable to access her computer and email. The help desk needs to assist Sarah in resetting her password in Active Directory.</p>
+✔ Ensure that John has the Necessary Permissions and Group Memberships to access the Resources required for his role.
 
-<p><strong> Locate Sarah's user account and initiate a password reset.</strong></p>
+<br>
+<br>
+
+<h2></h2>
+
+<h3>2️⃣ Password Reset </h3>
+
+*<h4>BACKGROUND:</h4>*
+
+- Sarah Thompson, a marketing executive, contacts the IT help desk reporting that she has forgotten her password and is unable to access her computer and email.
+
+- The help desk needs to assist Sarah in resetting her password in Active Directory.
+<br>
+
+
+🔸 Locate Sarah's user account and initiate a password reset.
 
 <img width="383" alt="reset password" src="https://github.com/kirkgacias/ad-scenario-simulation/assets/158519921/c74f2c28-6fd8-4d3e-b3ed-7e16d14d1364">
 
+<br>
+<br>
+<br>
 
-<p><strong>.</strong></p>
-<p><strong>.</strong></p>
-<p><strong>.</strong></p>
 
-<p><strong>Set a temporary password for Sarah that complies with the company's password policy.</strong></p>
+Set a temporary password for Sarah that complies with the company's password policy.
+
+⚠️ NOTE: Make sure to click the highlighted boxes to ensure the user’s account is unlocked and enable them to set their own password.
 
 <img width="383" alt="enable acc" src="https://github.com/kirkgacias/ad-scenario-simulation/assets/158519921/85e43120-0d23-4cb8-a8e2-6e64005a7303">
 
-<p><strong>NOTE: Make sure to click the highlighted boxes to ensure the user’s account is unlocked and enable them to set their own password. </strong></p>
+<br>
+<br>
+<br>
 
-- Communicate the temporary password to Sarah through a secure channel and instruct her to change it immediately upon login.
-- Provide guidance on how to change the password using the company's self-service password reset tool if available.
-- Document the date and time of account creation for auditing purposes.
+➜ Communicate the **Temporary Password** to Sarah through a secure channel and instruct her to **Change it Immediately upon Login**.
 
-<h4>Considerations:</h4>
+➜ Provide guidance on **How to Change the Password** using the company's **Self-service Password Reset Tool** if available.
 
-- Ensure that the chosen temporary password is strong and complies with the company's password policy.
-- Remind Sarah to update the password on any additional devices or applications where the old password was saved.
+➜ Document the **Date and Time of Account Creation** for auditing purposes.
+  
+<br>
 
-<p><strong>.</strong></p>
-<p><strong>.</strong></p>
 
-<h3>&#9314; Group Membership Update </h3>
+*<h4>CONSIDERATIONS:</h4>*
+
+✔ Ensure that the chosen temporary password is strong and complies with the company's password policy.
+
+✔ Remind Sarah to update the password on any additional devices or applications where the old password was saved.
+
+
+<br>
+<br>
+
+<h2></h2>
+
+<h3>3️⃣ Group Membership Update </h3>
 
 <h4>Background:</h4>
 
