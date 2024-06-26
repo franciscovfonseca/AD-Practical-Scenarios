@@ -62,21 +62,21 @@ In this project, we'll simulate various scenarios to enhance our understanding o
 
 First **Create a New User Account** named *John Smith* with the Username "*john_smith*" and a Temporary Password.
 
-<img width="324" alt="john smith" src="https://github.com/franciscovfonseca/Active-Directory-Practical-Scenario-Simulation/assets/172988970/090466f7-bb0a-418d-93de-e24dee6e9418">
+<img width="600" alt="john smith" src="https://github.com/franciscovfonseca/Active-Directory-Practical-Scenario-Simulation/assets/172988970/090466f7-bb0a-418d-93de-e24dee6e9418">
 <br>
 <br>
 
 
 ⚠️ NOTE: Set the Account to ***User must change the password at next logon***.
 
-<img width="324" alt="john smith" src="https://github.com/franciscovfonseca/Active-Directory-Practical-Scenario-Simulation/assets/172988970/b04b9990-c04c-4808-9218-498b7b7dac98">
+<img width="600" alt="john smith" src="https://github.com/franciscovfonseca/Active-Directory-Practical-Scenario-Simulation/assets/172988970/b04b9990-c04c-4808-9218-498b7b7dac98">
 <br>
 <br>
 
 
 Assign John to the "***Developers***" Security Group in Active Directory.
 
-<img width="340" alt="developers" src="https://github.com/franciscovfonseca/Active-Directory-Practical-Scenario-Simulation/assets/172988970/08ed3545-24ff-4002-a044-9a75b8edff4c">
+<img width="600" alt="developers" src="https://github.com/franciscovfonseca/Active-Directory-Practical-Scenario-Simulation/assets/172988970/08ed3545-24ff-4002-a044-9a75b8edff4c">
 
 <br>
 <br>
@@ -84,7 +84,7 @@ Assign John to the "***Developers***" Security Group in Active Directory.
 
 Then ensure that **John's Account** is located in the appropriate **Organizational Unit (OU)** for the IT staff (***Developers***):
 
-<img width="340" alt="check" src="https://github.com/franciscovfonseca/Active-Directory-Practical-Scenario-Simulation/assets/172988970/ec0f5e0e-f753-49ef-bcd8-429305fdaed0">
+<img width="600" alt="check" src="https://github.com/franciscovfonseca/Active-Directory-Practical-Scenario-Simulation/assets/172988970/ec0f5e0e-f753-49ef-bcd8-429305fdaed0">
 
 <br>
 <br>
@@ -122,7 +122,7 @@ Then ensure that **John's Account** is located in the appropriate **Organization
 
 Locate Sarah's User Account and **Initiate a Password Reset**.
 
-<img width="383" alt="reset password" src="https://github.com/franciscovfonseca/Active-Directory-Practical-Scenario-Simulation/assets/172988970/a668a089-e1e1-4b7c-8e2b-f4da359500fb">
+<img width="600" alt="reset password" src="https://github.com/franciscovfonseca/Active-Directory-Practical-Scenario-Simulation/assets/172988970/a668a089-e1e1-4b7c-8e2b-f4da359500fb">
 
 <br>
 <br>
@@ -133,7 +133,7 @@ Set a temporary password for Sarah that complies with the ***Company's Password 
 
 ⚠️ NOTE: Make sure to click the highlighted boxes to ensure the user’s account is unlocked and enable them to set their own password.
 
-<img width="383" alt="enable acc" src="https://github.com/franciscovfonseca/Active-Directory-Practical-Scenario-Simulation/assets/172988970/e3fdffdb-6a67-4019-8c75-320edd7c263b">
+<img width="600" alt="enable acc" src="https://github.com/franciscovfonseca/Active-Directory-Practical-Scenario-Simulation/assets/172988970/e3fdffdb-6a67-4019-8c75-320edd7c263b">
 
 <br>
 <br>
@@ -176,7 +176,7 @@ Set a temporary password for Sarah that complies with the ***Company's Password 
 
 Locate **Emma's User Account** and review her current **Group Memberships**.
 
-<img width="304" alt="Emma " src="https://github.com/kirkgacias/ad-scenario-simulation/assets/158519921/e0f15108-dcdb-477d-8de4-5f3747e5ea07">
+<img width="600" alt="Emma " src="https://github.com/franciscovfonseca/Active-Directory-Practical-Scenario-Simulation/assets/172988970/b27ec450-7a46-4cb0-8193-2cd797a1aa42">
 
 <br>
 <br>
@@ -185,7 +185,7 @@ Locate **Emma's User Account** and review her current **Group Memberships**.
 
 Remove Emma from the "Systems Analysts" group and add her to the "IT Managers" group.
 
-<img width="303" alt="IT managers" src="https://github.com/kirkgacias/ad-scenario-simulation/assets/158519921/5120932a-c9de-45d9-9419-383bf839bbc4">
+<img width="600" alt="IT managers" src="https://github.com/franciscovfonseca/Active-Directory-Practical-Scenario-Simulation/assets/172988970/74934325-7600-4723-a794-1c714740d474">
 
 <br>
 <br>
@@ -194,7 +194,7 @@ Remove Emma from the "Systems Analysts" group and add her to the "IT Managers" g
 
 Confirm that Emma now has the necessary access rights to project folders and relevant network resources.
 
-<img width="600" alt="image" src="https://github.com/kirkgacias/ad-scenario-simulation/assets/158519921/aadea113-c15b-4135-93d8-8b4ebf48de04">
+<img width="800" alt="image" src="https://github.com/franciscovfonseca/Active-Directory-Practical-Scenario-Simulation/assets/172988970/9f80fb40-a0e4-4feb-9db0-7502a4c95ba9">
 
 <br>
 <br>
