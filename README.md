@@ -176,23 +176,23 @@ Set a temporary password for Sarah that complies with the ***Company's Password 
 
 Locate **Emma's User Account** and review her current **Group Memberships**.
 
-<img width="600" alt="Emma " src="https://github.com/franciscovfonseca/Active-Directory-Practical-Scenario-Simulation/assets/172988970/b27ec450-7a46-4cb0-8193-2cd797a1aa42">
+<img width="600" alt="Emma " src="https://github.com/franciscovfonseca/Active-Directory-Practical-Scenario-Simulation/assets/172988970/0387d564-7ef7-408d-861f-e55d23cfeee3">
 
 <br>
 <br>
 <br>
 
 
-Remove Emma from the "Systems Analysts" group and add her to the "IT Managers" group.
+Remove Emma from the "***Systems Analysts***" Group and add her to the "***IT Managers***" Group.
 
-<img width="600" alt="IT managers" src="https://github.com/franciscovfonseca/Active-Directory-Practical-Scenario-Simulation/assets/172988970/74934325-7600-4723-a794-1c714740d474">
+<img width="600" alt="IT managers" src="https://github.com/franciscovfonseca/Active-Directory-Practical-Scenario-Simulation/assets/172988970/075f3450-100d-41b3-89e2-2901be595462">
 
 <br>
 <br>
 <br>
 
 
-Confirm that Emma now has the necessary access rights to project folders and relevant network resources.
+Confirm that Emma now has the **Necessary Access Rights to Specific Network Resources and Project Folders**.
 
 <img width="800" alt="image" src="https://github.com/franciscovfonseca/Active-Directory-Practical-Scenario-Simulation/assets/172988970/9f80fb40-a0e4-4feb-9db0-7502a4c95ba9">
 
