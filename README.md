@@ -49,6 +49,7 @@ In this project, we'll simulate various scenarios to enhance our understanding o
 <h1>Scenarios</h1>
 
 <h3>1️⃣ User Account Creation </h3>
+<br>
 
 *<h4>BACKGROUND:</h4>*
 
@@ -56,9 +57,10 @@ In this project, we'll simulate various scenarios to enhance our understanding o
 
 - As part of the onboarding process, the IT help desk needs to **Create a New User Account** for John in **Active Directory**.
 <br>
+<br>
 
 
-🔸 First **Create a New User Account** named *John Smith* with the Username "*john_smith*" and a Temporary Password.
+First **Create a New User Account** named *John Smith* with the Username "*john_smith*" and a Temporary Password.
 
 <img width="324" alt="john smith" src="https://github.com/franciscovfonseca/Active-Directory-Practical-Scenario-Simulation/assets/172988970/090466f7-bb0a-418d-93de-e24dee6e9418">
 <br>
@@ -80,7 +82,7 @@ Assign John to the "***Developers***" Security Group in Active Directory.
 <br>
 <br>
 
-🔸 Then ensure that **John's Account** is located in the appropriate **Organizational Unit (OU)** for the IT staff (***Developers***):
+Then ensure that **John's Account** is located in the appropriate **Organizational Unit (OU)** for the IT staff (***Developers***):
 
 <img width="340" alt="check" src="https://github.com/franciscovfonseca/Active-Directory-Practical-Scenario-Simulation/assets/172988970/ec0f5e0e-f753-49ef-bcd8-429305fdaed0">
 
@@ -107,29 +109,31 @@ Assign John to the "***Developers***" Security Group in Active Directory.
 <h2></h2>
 
 <h3>2️⃣ Password Reset </h3>
+<br>
 
 *<h4>BACKGROUND:</h4>*
 
 - Sarah Thompson, a marketing executive, contacts the IT help desk reporting that she has forgotten her password and is unable to access her computer and email.
 
-- The help desk needs to assist Sarah in resetting her password in Active Directory.
-<br>
-
-
-🔸 Locate Sarah's user account and initiate a password reset.
-
-<img width="383" alt="reset password" src="https://github.com/kirkgacias/ad-scenario-simulation/assets/158519921/c74f2c28-6fd8-4d3e-b3ed-7e16d14d1364">
-
-<br>
+- The help desk needs to assist Sarah in **resetting her password in Active Directory**.
 <br>
 <br>
 
 
-Set a temporary password for Sarah that complies with the company's password policy.
+Locate Sarah's User Account and **Initiate a Password Reset**.
+
+<img width="383" alt="reset password" src="https://github.com/franciscovfonseca/Active-Directory-Practical-Scenario-Simulation/assets/172988970/a668a089-e1e1-4b7c-8e2b-f4da359500fb">
+
+<br>
+<br>
+<br>
+
+
+Set a temporary password for Sarah that complies with the ***Company's Password Policy***.
 
 ⚠️ NOTE: Make sure to click the highlighted boxes to ensure the user’s account is unlocked and enable them to set their own password.
 
-<img width="383" alt="enable acc" src="https://github.com/kirkgacias/ad-scenario-simulation/assets/158519921/85e43120-0d23-4cb8-a8e2-6e64005a7303">
+<img width="383" alt="enable acc" src="https://github.com/franciscovfonseca/Active-Directory-Practical-Scenario-Simulation/assets/172988970/e3fdffdb-6a67-4019-8c75-320edd7c263b">
 
 <br>
 <br>
@@ -157,43 +161,68 @@ Set a temporary password for Sarah that complies with the company's password pol
 <h2></h2>
 
 <h3>3️⃣ Group Membership Update </h3>
+<br>
 
-<h4>Background:</h4>
+*<h4>BACKGROUND:</h4>*
 
-<p>Emma Rodriguez, a systems analyst, has recently been promoted to a managerial role within the IT department. As part of her new responsibilities, Emma now requires access to specific network resources and project folders. The IT help desk needs to update Emma's group memberships in Active Directory accordingly.</p>
+- Emma Rodriguez, a systems analyst, has recently been promoted to a managerial role within the IT department.
 
-<p><strong>Locate Emma's user account and review her current group memberships.</strong></p>
+- As part of her new responsibilities, Emma now requires access to specific network resources and project folders.
+
+- The IT help desk needs to update Emma's group memberships in Active Directory accordingly.
+<br>
+<br>
+
+
+Locate Emma's user account and review her current group memberships.
 
 <img width="304" alt="Emma " src="https://github.com/kirkgacias/ad-scenario-simulation/assets/158519921/e0f15108-dcdb-477d-8de4-5f3747e5ea07">
 
-<p><strong>.</strong></p>
-<p><strong>.</strong></p>
-<p><strong>.</strong></p>
+<br>
+<br>
+<br>
 
-<p><strong>Remove Emma from the "Systems Analysts" group and add her to the "IT Managers" group.</strong></p>
+
+Remove Emma from the "Systems Analysts" group and add her to the "IT Managers" group.
 
 <img width="303" alt="IT managers" src="https://github.com/kirkgacias/ad-scenario-simulation/assets/158519921/5120932a-c9de-45d9-9419-383bf839bbc4">
 
-<p><strong>.</strong></p>
-<p><strong>.</strong></p>
+<br>
+<br>
+<br>
 
 
-<p><strong>Confirm that Emma now has the necessary access rights to project folders and relevant network resources.</strong></p>
+Confirm that Emma now has the necessary access rights to project folders and relevant network resources.
 
 <img width="600" alt="image" src="https://github.com/kirkgacias/ad-scenario-simulation/assets/158519921/aadea113-c15b-4135-93d8-8b4ebf48de04">
 
+<br>
+<br>
+<br>
 
-- Communicate the group membership update to Emma, along with any additional instructions or changes in access.
-- Document the whole process
+➜ Communicate the group membership update to Emma, along with any additional instructions or changes in access.
+
+➜ Document the whole process
+
+➜ Document the **Date and Time of Account Creation** for auditing purposes.
+  
+<br>
 
 
-<h4>Considerations:</h4>
+*<h4>CONSIDERATIONS:</h4>*
 
-- Ensure that Emma's new group memberships align with her managerial responsibilities.
-- Communicate the changes to other relevant parties, such as the IT security team, to maintain awareness.
-- Verify that Emma's access permissions are correctly configured after the group membership update.
+✔ Ensure that Emma's new group memberships align with her managerial responsibilities.
 
-<h3>&#9315; Account Deactivation </h3>
+✔ Communicate the changes to other relevant parties, such as the IT security team, to maintain awareness.
+
+✔ Verify that Emma's access permissions are correctly configured after the group membership update.
+
+<br>
+<br>
+
+<h2></h2>
+
+<h3>4️⃣ Account Deactivation </h3>
 
 <h4>Background:</h4>
 
