@@ -169,12 +169,12 @@ Set a temporary password for Sarah that complies with the ***Company's Password 
 
 - As part of her new responsibilities, Emma now requires access to specific network resources and project folders.
 
-- The IT help desk needs to update Emma's group memberships in Active Directory accordingly.
+- The IT help desk needs to **Update Emma's Group Memberships in Active Directory** accordingly.
 <br>
 <br>
 
 
-Locate Emma's user account and review her current group memberships.
+Locate **Emma's User Account** and review her current **Group Memberships**.
 
 <img width="304" alt="Emma " src="https://github.com/kirkgacias/ad-scenario-simulation/assets/158519921/e0f15108-dcdb-477d-8de4-5f3747e5ea07">
 
