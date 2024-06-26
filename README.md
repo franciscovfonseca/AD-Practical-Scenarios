@@ -223,14 +223,20 @@ Confirm that Emma now has the **Necessary Access Rights to Specific Network Reso
 <h2></h2>
 
 <h3>4️⃣ Account Deactivation </h3>
+<br>
 
-<h4>Background:</h4>
+*<h4>BACKGROUND:</h4>*
 
-<p>Mark Johnson, a network administrator, has recently resigned from the company. The IT help desk needs to deactivate Mark's user account in Active Directory to prevent unauthorized access and ensure the security of company resources.</p>
+- Mark Johnson, a network administrator, has recently resigned from the company. 
 
-<p><strong>Locate Mark's user account and initiate the account deactivation process.</strong></p>
+- The IT help desk needs to **Deactivate Mark's User Account in Active Directory** to prevent unauthorized access and ensure the security of company resources.
+<br>
+<br>
 
-<img width="421" alt="makr" src="https://github.com/kirkgacias/ad-scenario-simulation/assets/158519921/0a51e96b-9dce-4bf6-a22f-92943f6e8a20">
+
+Locate **Mark's User Account** and initiate the **Account Deactivation Process**.</strong></p>
+
+<img width="600" alt="makr" src="https://github.com/kirkgacias/ad-scenario-simulation/assets/158519921/0a51e96b-9dce-4bf6-a22f-92943f6e8a20">
 
 <p><strong>.</strong></p>
 <p><strong>.</strong></p>
