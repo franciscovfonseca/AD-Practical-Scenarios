@@ -48,17 +48,23 @@ In this project, we'll simulate various scenarios to enhance our understanding o
 
 <h1>Scenarios</h1>
 
-<h3>&#9312; User Account Creation </h3>
+<h3>1️⃣ User Account Creation </h3>
+<br>
 
-<h4>Background:</h4>
+*<h4>Background:</h4>*
 
-<p>A new software developer, John Smith, has been hired to join the IT department at your company. As part of the onboarding process, the IT help desk needs to create a new user account for John in Active Directory.</p>
+A new software developer, John Smith, has been hired to join the IT department at your company.
 
-<p><strong>First create a new user account named "John Smith" with the username "john_smith" and a temporary password.</strong></p>
+As part of the onboarding process, the IT help desk needs to **Create a New User Account** for John in **Active Directory**.
+<br>
+<br>
+
+➜ First **Create a New User Account** named *John Smith* with the Username "*john_smith*" and a Temporary Password.
 
 <img width="324" alt="john smith" src="https://github.com/kirkgacias/ad-scenario-simulation/assets/158519921/1a695e10-9cb3-4013-bd48-0ed2b9f3c31d">
+<br>
 
-<p><strong>NOTE: Set the account to require a password change at the next login.</strong></p>
+⚠️ NOTE: Set the Account to ***Require a password change at the next login***.
 
 
 <p><strong>.</strong></p>
