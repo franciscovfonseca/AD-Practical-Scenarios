@@ -14,9 +14,9 @@ In this project, we'll simulate various scenarios to enhance our understanding o
 
 <h2>Prerequisites</h2>
 
-- <a href="https://github.com/kirkgacias/ad-and-azuresetup"> Preliminary Setup for Active Directory and Network Traffic Analysis between Azure VMs </a>
-- <a href="https://github.com/kirkgacias/ad-deployment-configuration"> Active Directory Deployment and Configuration </a>
-- <a href="https://github.com/kirkgacias/ad-user-generation">Active Directory: User Generation </a>
+- <a href="https://github.com/franciscovfonseca/Active-Directory-and-Azure-Setup/blob/main/README.md"> Preliminary Setup for Active Directory and Network Traffic Analysis between Azure VMs </a>
+- <a href="https://github.com/franciscovfonseca/Active-Directory-Deployment-and-Configuration/blob/main/README.md"> Active Directory Deployment and Configuration </a>
+- <a href="https://github.com/franciscovfonseca/Active-Directory-User-Generation/blob/main/README.md">Active Directory: User Generation </a>
 <br>
 
 <h2>Key Objectives</h2>
@@ -61,16 +61,17 @@ As part of the onboarding process, the IT help desk needs to **Create a New User
 
 ➜ First **Create a New User Account** named *John Smith* with the Username "*john_smith*" and a Temporary Password.
 
-<img width="324" alt="john smith" src="https://github.com/kirkgacias/ad-scenario-simulation/assets/158519921/1a695e10-9cb3-4013-bd48-0ed2b9f3c31d">
+<img width="324" alt="john smith" src="https://github.com/franciscovfonseca/Active-Directory-Practical-Scenario-Simulation/assets/172988970/090466f7-bb0a-418d-93de-e24dee6e9418">
+<br>
 <br>
 
-⚠️ NOTE: Set the Account to ***Require a password change at the next login***.
 
+⚠️ NOTE: Set the Account to ***User must change the password at next logon***.
 
-<p><strong>.</strong></p>
-<p><strong>.</strong></p>
+<img width="324" alt="john smith" src="https://github.com/franciscovfonseca/Active-Directory-Practical-Scenario-Simulation/assets/172988970/b04b9990-c04c-4808-9218-498b7b7dac98">
+<br>
 
-<p><strong> Assign John to the "Developers" security group in Active Directory.</strong></p>
+Assign John to the "Developers" security group in Active Directory.
 
 <img width="340" alt="developers" src="https://github.com/kirkgacias/ad-scenario-simulation/assets/158519921/a1f6ef6a-5c02-41c5-a331-eddde3b2e0f0">
 
