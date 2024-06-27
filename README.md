@@ -194,7 +194,7 @@ Remove Emma from the "***Systems Analysts***" Group and add her to the "***IT Ma
 
 Confirm that Emma now has the **Necessary Access Rights to Specific Network Resources and Project Folders**.
 
-<img width="800" alt="image" src="https://github.com/franciscovfonseca/Active-Directory-Practical-Scenario-Simulation/assets/172988970/9f80fb40-a0e4-4feb-9db0-7502a4c95ba9">
+<img width="700" alt="image" src="https://github.com/franciscovfonseca/Active-Directory-Practical-Scenario-Simulation/assets/172988970/9f80fb40-a0e4-4feb-9db0-7502a4c95ba9">
 
 <br>
 <br>
@@ -236,97 +236,143 @@ Confirm that Emma now has the **Necessary Access Rights to Specific Network Reso
 
 Locate **Mark's User Account** and initiate the **Account Deactivation Process**.</strong></p>
 
-<img width="600" alt="makr" src="https://github.com/kirkgacias/ad-scenario-simulation/assets/158519921/0a51e96b-9dce-4bf6-a22f-92943f6e8a20">
+<img width="600" alt="makr" src="https://github.com/franciscovfonseca/Active-Directory-Practical-Scenario-Simulation/assets/172988970/81f1cb1f-822f-4cf0-a3ac-6a90bd25ee9d">
 
-<p><strong>.</strong></p>
-<p><strong>.</strong></p>
-
-
-<p><strong>Disable Mark's account to prevent further logins while retaining the account details for reference.</strong></p>
-
-<img width="470" alt="disable" src="https://github.com/kirkgacias/ad-scenario-simulation/assets/158519921/da07b6af-1ba3-467a-b0a0-8109afc37bfb">
-
-<p><strong>.</strong></p>
-<p><strong>.</strong></p>
+<br>
+<br>
+<br>
 
 
-<p><strong>You may receive a confirmation dialog; click "Yes" to confirm the disabling of the user account.</strong></p>
+**Disable Mark's Account** to prevent further logins while *retaining the account details for reference*.
 
-<img width="223" alt="disable 2" src="https://github.com/kirkgacias/ad-scenario-simulation/assets/158519921/5b5bdfe6-996d-4ff3-8201-4cd9549bdd46">
+<img width="600" alt="disable" src="https://github.com/franciscovfonseca/Active-Directory-Practical-Scenario-Simulation/assets/172988970/0a5c21de-a440-426e-bd72-ea4db51052b2">
 
-<p><strong>.</strong></p>
-<p><strong>.</strong></p>
-<p><strong>.</strong></p>
+<br>
+<br>
+<br>
 
-<p><strong>Remove Mark from all security groups to revoke his access to network resources.</strong></p>
 
-<img width="295" alt="remove mark" src="https://github.com/kirkgacias/ad-scenario-simulation/assets/158519921/1613e604-3e4c-462f-8c30-ea0dd7fed0bf">
+You may receive a confirmation dialog ➜ click "**Yes**" to confirm the **disabling of the User Account**.
+
+<img width="400" alt="disable 2" src="https://github.com/franciscovfonseca/Active-Directory-Practical-Scenario-Simulation/assets/172988970/0843f9b2-f8b7-4b4a-8f91-2f771a2fbdad">
+
+<br>
+<br>
+<br>
+
+
+
+**Remove Mark from all Security Groups** to revoke his access to network resources.
+
+<img width="600" alt="remove mark" src="https://github.com/franciscovfonseca/Active-Directory-Practical-Scenario-Simulation/assets/172988970/94814d6f-af67-4570-ad8b-7cea15c63e76">
 
 <br>
 <br>
 
-<p><strong> Confirm with other relevant departments (e.g., HR) that Mark's departure aligns with company policies and document the whole process.</strong></p>
+➜ Confirm with other relevant departments (e.g. HR) that Mark's departure aligns with **Company Policies** and **Document the Whole Process**.
+<br>
+<br>
 
-<h4>Considerations:</h4>
+*<h4>CONSIDERATIONS:</h4>*
 
-- Ensure a smooth transition of Mark's responsibilities to other team members.
+✔ Ensure a smooth transition of Mark's responsibilities to other team members.
 
--  Communicate the account deactivation to other departments, such as HR and security, for coordinated efforts.
+✔ Communicate the account deactivation to other departments, such as HR and security, for coordinated efforts.
 
--  Retain Mark's user account details for historical records and potential future reference.
+✔ Retain Mark's user account details for historical records and potential future reference.
    
--  Conduct a review of Mark's access rights to identify and update any shared resources associated with his account.
-
-<h3>&#9316; Organizational Unit (OU) Management </h3>
-
-<h4>Background:</h4>
-
-<p>The Sales department has recently undergone a reorganization, resulting in the creation of a new team focused on international sales. The IT help desk needs to reflect this change in the Active Directory structure by creating a new Organizational Unit (OU) for the International Sales team and moving relevant user accounts into the new OU.
-</p>
-
-<p><strong>Create a new Organizational Unit named "International Sales" within the Sales department's organizational structure.</strong></p>
-
-<img width="323" alt="International Sales" src="https://github.com/kirkgacias/ad-scenario-simulation/assets/158519921/19db8909-74bf-4e02-8b5d-353bce7818ee">
-
-<p><strong>.</strong></p>
-<p><strong>.</strong></p>
-<p><strong>.</strong></p>
-
-<p><strong>Move the user accounts of team members, such as Alex Turner and Maria Sanchez, to the newly created OU.</strong></p>
-
-<img width="307" alt="Alex Turner to IS " src="https://github.com/kirkgacias/ad-scenario-simulation/assets/158519921/ff044b9d-17ee-4b8d-8b40-0f55dff95070">
-
-<img width="305" alt="Maria to IS" src="https://github.com/kirkgacias/ad-scenario-simulation/assets/158519921/641b24cb-156c-4a32-8edd-bc9041ca3741">
-
-<p><strong>.</strong></p>
-<p><strong>.</strong></p>
-<p><strong>.</strong></p>
-
-<p><strong> Verify that the users now appear under the "International Sales" OU in Active Directory.
-</strong></p>
-
-<img width="296" alt="Verify" src="https://github.com/kirkgacias/ad-scenario-simulation/assets/158519921/8c4884d1-e16a-48a6-a492-6cc12f6e91e8">
+✔ Conduct a review of Mark's access rights to identify and update any shared resources associated with his account.
 
 <br>
 <br>
 
-<p><strong>Communicate the organizational change to relevant stakeholders, such as department heads and team leaders.
-</strong></p>
+<h2></h2>
 
-<h4>Considerations:</h4>
 
-- Ensure that the new OU structure aligns with the company's organizational hierarchy.
+<h3>5️⃣ Organizational Unit (OU) Management </h3>
+<br>
 
-- Confirm that the appropriate Group Policy settings apply to the users within the new OU.
+*<h4>BACKGROUND:</h4>*
+
+- The Sales department has recently undergone a reorganization, resulting in the creation of a new team focused on international sales. 
+
+- The IT help desk needs to reflect this change in the **Active Directory** structure by creating a new **Organizational Unit (OU)** for the International Sales team and **moving relevant user accounts into the new OU**.
+<br>
+<br>
+
+
+**Create a new Organizational Unit** named "***International Sales***" within the Sales department's organizational structure.
+
+<img width="600" alt="International Sales" src="https://github.com/franciscovfonseca/Active-Directory-Practical-Scenario-Simulation/assets/172988970/514f52ad-daa3-4d8f-a518-c32c4efcc509">
+
+<br>
+<br>
+<br>
+
+
+Move the user accounts of team members, such as *Alex Turner* and *Maria Sanchez*, to the **newly created OU**.
+
+<img width="600" alt="Alex Turner to IS " src="https://github.com/franciscovfonseca/Active-Directory-Practical-Scenario-Simulation/assets/172988970/a7755794-8a21-4625-93c2-7f2cbe69a785">
+<br>
+
+<img width="600" alt="Maria to IS" src="https://github.com/franciscovfonseca/Active-Directory-Practical-Scenario-Simulation/assets/172988970/3704b7ac-35c7-4693-8b08-2bfbbc6d088e">
+
+<br>
+<br>
+<br>
+
+
+**Verify** that the users now appear under the ***"International Sales" OU*** in Active Directory.
+
+<img width="600" alt="Verify" src="https://github.com/franciscovfonseca/Active-Directory-Practical-Scenario-Simulation/assets/172988970/d872f000-83a6-4efb-b176-fee8e3946cca">
+
+<br>
+
+<br>
+
+➜ Communicate the organizational change to relevant stakeholders, such as department heads and team leaders.
+<br>
+<br>
+
+*<h4>CONSIDERATIONS:</h4>*
+
+✔ Ensure that the new OU structure aligns with the company's organizational hierarchy.
+
+✔ Confirm that the appropriate Group Policy settings apply to the users within the new OU.
   
-- Communicate any changes in access permissions or policies resulting from the OU reorganization to the IT security team.
+✔ Communicate any changes in access permissions or policies resulting from the OU reorganization to the IT security team.
 
+<br>
+<br>
+<br>
 
 
 <h2> Final Thoughts </h2>
 
-<p>
-In summary, Active Directory is crucial for managing user accounts and network resources. The scenarios provided cover common IT help desk tasks, such as creating user accounts, resetting passwords, updating group memberships, and handling account deactivation. These scenarios serve as practical exercises for training IT personnel and highlight the importance of Active Directory in maintaining a secure and organized digital environment. </p>
+
+In summary, **Active Directory** is crucial for ***Managing User Accounts and Network Resources***.
+
+
+The scenarios provided cover common IT help desk tasks, such as:
+
+- Creating User Accounts
+- Resetting Passwords
+- Updating Group Memberships
+- Handling Account Deactivation
+
+
+These scenarios serve as practical exercises for training IT personnel and highlight the importance of **Active Directory** in maintaining a secure and organized digital environment.
+
+<br>
+<br>
+<br>
+<br>
+
+
+
+
+
+
 
 
 
