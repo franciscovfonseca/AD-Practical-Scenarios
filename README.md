@@ -350,18 +350,18 @@ Move the user accounts of team members, such as *Alex Turner* and *Maria Sanchez
 <h2> Final Thoughts </h2>
 
 
-In summary, **Active Directory** is crucial for ***Managing User Accounts and Network Resources***.
+In summary, **Active Directory** is crucial for Managing User Accounts and Network Resources.
 
 
 The scenarios provided cover common IT help desk tasks, such as:
 
-- Creating User Accounts
-- Resetting Passwords
-- Updating Group Memberships
-- Handling Account Deactivation
+- **Creating User Accounts**
+- **Resetting Passwords**
+- **Updating Group Memberships**
+- **Handling Account Deactivation**
 
 
-These scenarios serve as practical exercises for training IT personnel and highlight the importance of **Active Directory** in maintaining a secure and organized digital environment.
+These scenarios serve as practical exercises for training IT personnel and highlight the importance of **Active Directory** in Maintaining a Secure and Organized Digital Environment.
 
 <br>
 <br>
