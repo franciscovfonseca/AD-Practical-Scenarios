@@ -2,6 +2,8 @@
 <img src="https://i.imgur.com/pU5A58S.png" alt="Microsoft Active Directory Logo"/>
 </p>
 
+<br>
+
 <h1> Active Directory: Practical Scenario Simulation </h1>
 <br>
 
@@ -48,17 +50,18 @@ In this project, we'll simulate various scenarios to enhance our understanding o
 
 <h1>Scenarios</h1>
 
-<h3>1️⃣ User Account Creation </h3>
+<details close> 
+<summary> <h2>1️⃣ User Account Creation </h2> </summary>
 <br>
 
-*<h4>BACKGROUND:</h4>*
+**<h3>Understanding the Scenario:</h3>**
 
 - A new software developer, John Smith, has been hired to join the IT department at your company.
 
 - As part of the onboarding process, the IT help desk needs to **Create a New User Account** for John in **Active Directory**.
 <br>
-<br>
 
+**<h3>Troubleshooting:</h3>**
 
 First **Create a New User Account** named *John Smith* with the Username "*john_smith*" and a Temporary Password.
 
@@ -97,7 +100,7 @@ Then ensure that **John's Account** is located in the appropriate **Organization
 <br>
 
 
-*<h4>CONSIDERATIONS:</h4>*
+**<h3>Considerations:</h3>**
 
 ✔ The Temporary Password should meet the Company's Password Policy Requirements.
 
@@ -107,18 +110,25 @@ Then ensure that **John's Account** is located in the appropriate **Organization
 <br>
 
 <h2></h2>
-
-<h3>2️⃣ Password Reset </h3>
+   
 <br>
 
-*<h4>BACKGROUND:</h4>*
+  </details>
 
-- Sarah Thompson, a marketing executive, contacts the IT help desk reporting that she has forgotten her password and is unable to access her computer and email.
+<h2></h2>
 
-- The help desk needs to assist Sarah in **resetting her password in Active Directory**.
+<details close> 
+<summary> <h2>2️⃣ Password Reset </h2> </summary>
 <br>
+
+**<h3>Understanding the Scenario:</h3>**
+
+> - Sarah Thompson, a marketing executive, contacts the IT help desk reporting that she has forgotten her password and is unable to access her computer and email.
+> 
+> - The help desk needs to assist Sarah in **resetting her password in Active Directory**.
 <br>
 
+**<h3>Troubleshooting:</h3>**
 
 Locate Sarah's User Account and **Initiate a Password Reset**.
 
@@ -148,7 +158,7 @@ Set a temporary password for Sarah that complies with the ***Company's Password 
 <br>
 
 
-*<h4>CONSIDERATIONS:</h4>*
+**<h3>Considerations:</h3>**
 
 ✔ Ensure that the chosen temporary password is strong and complies with the company's password policy.
 
@@ -160,10 +170,17 @@ Set a temporary password for Sarah that complies with the ***Company's Password 
 
 <h2></h2>
 
-<h3>3️⃣ Group Membership Update </h3>
 <br>
 
-*<h4>BACKGROUND:</h4>*
+  </details>
+
+<h2></h2>
+
+<details close> 
+<summary> <h2>3️⃣ Group Membership Update </h2> </summary>
+<br>
+
+**<h3>Understanding the Scenario:</h3>**
 
 - Emma Rodriguez, a systems analyst, has recently been promoted to a managerial role within the IT department.
 
@@ -171,8 +188,8 @@ Set a temporary password for Sarah that complies with the ***Company's Password 
 
 - The IT help desk needs to **Update Emma's Group Memberships in Active Directory** accordingly.
 <br>
-<br>
 
+**<h3>Troubleshooting:</h3>**
 
 Locate **Emma's User Account** and review her current **Group Memberships**.
 
@@ -209,7 +226,7 @@ Confirm that Emma now has the **Necessary Access Rights to Specific Network Reso
 <br>
 
 
-*<h4>CONSIDERATIONS:</h4>*
+**<h3>Considerations:</h3>**
 
 ✔ Ensure that Emma's new group memberships align with her managerial responsibilities.
 
@@ -218,21 +235,25 @@ Confirm that Emma now has the **Necessary Access Rights to Specific Network Reso
 ✔ Verify that Emma's access permissions are correctly configured after the group membership update.
 
 <br>
+
 <br>
+
+  </details>
 
 <h2></h2>
 
-<h3>4️⃣ Account Deactivation </h3>
+<details close>
+<summary> <h2>4️⃣ Account Deactivation </h2> </summary>
 <br>
 
-*<h4>BACKGROUND:</h4>*
+**<h3>Understanding the Scenario:</h3>**
 
 - Mark Johnson, a network administrator, has recently resigned from the company. 
 
 - The IT help desk needs to **Deactivate Mark's User Account in Active Directory** to prevent unauthorized access and ensure the security of company resources.
 <br>
-<br>
 
+**<h3>Troubleshooting:</h3>**
 
 Locate **Mark's User Account** and initiate the **Account Deactivation Process**.</strong></p>
 
@@ -273,7 +294,7 @@ You may receive a confirmation dialog ➜ click "**Yes**" to confirm the **disab
 <br>
 <br>
 
-*<h4>CONSIDERATIONS:</h4>*
+**<h3>Considerations:</h3>**
 
 ✔ Ensure a smooth transition of Mark's responsibilities to other team members.
 
@@ -284,22 +305,25 @@ You may receive a confirmation dialog ➜ click "**Yes**" to confirm the **disab
 ✔ Conduct a review of Mark's access rights to identify and update any shared resources associated with his account.
 
 <br>
+
 <br>
+
+  </details>
 
 <h2></h2>
 
-
-<h3>5️⃣ Organizational Unit (OU) Management </h3>
+<details close>
+<summary> <h2>5️⃣ Organizational Unit (OU) Management </h2> </summary>
 <br>
 
-*<h4>BACKGROUND:</h4>*
+**<h3>Understanding the Scenario:</h3>**
 
 - The Sales department has recently undergone a reorganization, resulting in the creation of a new team focused on international sales. 
 
 - The IT help desk needs to reflect this change in the **Active Directory** structure by creating a new **Organizational Unit (OU)** for the International Sales team and **moving relevant user accounts into the new OU**.
 <br>
-<br>
 
+**<h3>Troubleshooting:</h3>**
 
 **Create a new Organizational Unit** named "***International Sales***" within the Sales department's organizational structure.
 
@@ -334,7 +358,7 @@ Move the user accounts of team members, such as *Alex Turner* and *Maria Sanchez
 <br>
 <br>
 
-*<h4>CONSIDERATIONS:</h4>*
+**<h3>Considerations:</h3>**
 
 ✔ Ensure that the new OU structure aligns with the company's organizational hierarchy.
 
@@ -343,15 +367,20 @@ Move the user accounts of team members, such as *Alex Turner* and *Maria Sanchez
 ✔ Communicate any changes in access permissions or policies resulting from the OU reorganization to the IT security team.
 
 <br>
-<br>
+
+  </details>
+
 <br>
 
+<br>
 
 <h2> Final Thoughts </h2>
 
+<br>
 
-In summary, **Active Directory** is crucial for Managing User Accounts and Network Resources.
+In summary, **Active Directory** is crucial for **Managing User Accounts and Network Resources**.
 
+<br>
 
 The scenarios provided cover common IT help desk tasks, such as:
 
@@ -360,6 +389,7 @@ The scenarios provided cover common IT help desk tasks, such as:
 - **Updating Group Memberships**
 - **Handling Account Deactivation**
 
+<br>
 
 These scenarios serve as practical exercises for training IT personnel and highlight the importance of **Active Directory** in Maintaining a Secure and Organized Digital Environment.
 
