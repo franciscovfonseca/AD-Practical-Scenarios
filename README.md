@@ -1,6 +1,10 @@
+<br>
+
 <p align="center">
-<img src="https://i.imgur.com/pU5A58S.png" alt="Microsoft Active Directory Logo"/>
-</p>
+<img width="700" src="https://github.com/user-attachments/assets/9b6b0a51-6411-4e01-96c5-1bb31e6fd986" alt="Microsoft Active Directory Logo"/>
+<br>
+
+<br>
 
 <br>
 
@@ -63,7 +67,7 @@ In this project, we'll simulate various scenarios to enhance our understanding o
 
 **<h3>Troubleshooting:</h3>**
 
-First **Create a New User Account** named *John Smith* with the Username "*john_smith*" and a Temporary Password.
+- First **Create a New User Account** named *John Smith* with the Username "*john_smith*" and a Temporary Password.
 
 <img width="600" alt="john smith" src="https://github.com/franciscovfonseca/Active-Directory-Practical-Scenario-Simulation/assets/172988970/090466f7-bb0a-418d-93de-e24dee6e9418">
 <br>
@@ -77,7 +81,7 @@ First **Create a New User Account** named *John Smith* with the Username "*john_
 <br>
 
 
-Assign John to the "***Developers***" Security Group in Active Directory.
+- Assign John to the "***Developers***" Security Group in Active Directory.
 
 <img width="600" alt="developers" src="https://github.com/franciscovfonseca/Active-Directory-Practical-Scenario-Simulation/assets/172988970/08ed3545-24ff-4002-a044-9a75b8edff4c">
 
@@ -85,7 +89,7 @@ Assign John to the "***Developers***" Security Group in Active Directory.
 <br>
 <br>
 
-Then ensure that **John's Account** is located in the appropriate **Organizational Unit (OU)** for the IT staff (***Developers***):
+- Then ensure that **John's Account** is located in the appropriate **Organizational Unit (OU)** for the IT staff (***Developers***):
 
 <img width="600" alt="check" src="https://github.com/franciscovfonseca/Active-Directory-Practical-Scenario-Simulation/assets/172988970/ec0f5e0e-f753-49ef-bcd8-429305fdaed0">
 
@@ -130,7 +134,7 @@ Then ensure that **John's Account** is located in the appropriate **Organization
 
 **<h3>Troubleshooting:</h3>**
 
-Locate Sarah's User Account and **Initiate a Password Reset**.
+- Locate Sarah's User Account and **Initiate a Password Reset**.
 
 <img width="600" alt="reset password" src="https://github.com/franciscovfonseca/Active-Directory-Practical-Scenario-Simulation/assets/172988970/a668a089-e1e1-4b7c-8e2b-f4da359500fb">
 
@@ -139,7 +143,7 @@ Locate Sarah's User Account and **Initiate a Password Reset**.
 <br>
 
 
-Set a temporary password for Sarah that complies with the ***Company's Password Policy***.
+- Set a temporary password for Sarah that complies with the ***Company's Password Policy***.
 
 ⚠️ NOTE: Make sure to click the highlighted boxes to ensure the user’s account is unlocked and enable them to set their own password.
 
@@ -191,7 +195,7 @@ Set a temporary password for Sarah that complies with the ***Company's Password 
 
 **<h3>Troubleshooting:</h3>**
 
-Locate **Emma's User Account** and review her current **Group Memberships**.
+- Locate **Emma's User Account** and review her current **Group Memberships**.
 
 <img width="600" alt="Emma " src="https://github.com/franciscovfonseca/Active-Directory-Practical-Scenario-Simulation/assets/172988970/0387d564-7ef7-408d-861f-e55d23cfeee3">
 
@@ -200,7 +204,7 @@ Locate **Emma's User Account** and review her current **Group Memberships**.
 <br>
 
 
-Remove Emma from the "***Systems Analysts***" Group and add her to the "***IT Managers***" Group.
+- Remove Emma from the "***Systems Analysts***" Group and add her to the "***IT Managers***" Group.
 
 <img width="600" alt="IT managers" src="https://github.com/franciscovfonseca/Active-Directory-Practical-Scenario-Simulation/assets/172988970/075f3450-100d-41b3-89e2-2901be595462">
 
@@ -209,7 +213,7 @@ Remove Emma from the "***Systems Analysts***" Group and add her to the "***IT Ma
 <br>
 
 
-Confirm that Emma now has the **Necessary Access Rights to Specific Network Resources and Project Folders**.
+- Confirm that Emma now has the **Necessary Access Rights to Specific Network Resources and Project Folders**.
 
 <img width="700" alt="image" src="https://github.com/franciscovfonseca/Active-Directory-Practical-Scenario-Simulation/assets/172988970/9f80fb40-a0e4-4feb-9db0-7502a4c95ba9">
 
@@ -255,7 +259,7 @@ Confirm that Emma now has the **Necessary Access Rights to Specific Network Reso
 
 **<h3>Troubleshooting:</h3>**
 
-Locate **Mark's User Account** and initiate the **Account Deactivation Process**.</strong></p>
+- Locate **Mark's User Account** and initiate the **Account Deactivation Process**.</strong></p>
 
 <img width="600" alt="makr" src="https://github.com/franciscovfonseca/Active-Directory-Practical-Scenario-Simulation/assets/172988970/81f1cb1f-822f-4cf0-a3ac-6a90bd25ee9d">
 
@@ -264,7 +268,7 @@ Locate **Mark's User Account** and initiate the **Account Deactivation Process**
 <br>
 
 
-**Disable Mark's Account** to prevent further logins while *retaining the account details for reference*.
+- **Disable Mark's Account** to prevent further logins while *retaining the account details for reference*.
 
 <img width="600" alt="disable" src="https://github.com/franciscovfonseca/Active-Directory-Practical-Scenario-Simulation/assets/172988970/0a5c21de-a440-426e-bd72-ea4db51052b2">
 
@@ -273,7 +277,7 @@ Locate **Mark's User Account** and initiate the **Account Deactivation Process**
 <br>
 
 
-You may receive a confirmation dialog ➜ click "**Yes**" to confirm the **disabling of the User Account**.
+- You may receive a confirmation dialog ➜ click "**Yes**" to confirm the **disabling of the User Account**.
 
 <img width="400" alt="disable 2" src="https://github.com/franciscovfonseca/Active-Directory-Practical-Scenario-Simulation/assets/172988970/0843f9b2-f8b7-4b4a-8f91-2f771a2fbdad">
 
@@ -283,7 +287,7 @@ You may receive a confirmation dialog ➜ click "**Yes**" to confirm the **disab
 
 
 
-**Remove Mark from all Security Groups** to revoke his access to network resources.
+- **Remove Mark from all Security Groups** to revoke his access to network resources.
 
 <img width="600" alt="remove mark" src="https://github.com/franciscovfonseca/Active-Directory-Practical-Scenario-Simulation/assets/172988970/94814d6f-af67-4570-ad8b-7cea15c63e76">
 
@@ -325,7 +329,7 @@ You may receive a confirmation dialog ➜ click "**Yes**" to confirm the **disab
 
 **<h3>Troubleshooting:</h3>**
 
-**Create a new Organizational Unit** named "***International Sales***" within the Sales department's organizational structure.
+- **Create a new Organizational Unit** named "***International Sales***" within the Sales department's organizational structure.
 
 <img width="600" alt="International Sales" src="https://github.com/franciscovfonseca/Active-Directory-Practical-Scenario-Simulation/assets/172988970/514f52ad-daa3-4d8f-a518-c32c4efcc509">
 
@@ -334,7 +338,7 @@ You may receive a confirmation dialog ➜ click "**Yes**" to confirm the **disab
 <br>
 
 
-Move the user accounts of team members, such as *Alex Turner* and *Maria Sanchez*, to the **newly created OU**.
+- Move the user accounts of team members, such as *Alex Turner* and *Maria Sanchez*, to the **newly created OU**.
 
 <img width="600" alt="Alex Turner to IS " src="https://github.com/franciscovfonseca/Active-Directory-Practical-Scenario-Simulation/assets/172988970/a7755794-8a21-4625-93c2-7f2cbe69a785">
 <br>
@@ -346,7 +350,7 @@ Move the user accounts of team members, such as *Alex Turner* and *Maria Sanchez
 <br>
 
 
-**Verify** that the users now appear under the ***"International Sales" OU*** in Active Directory.
+- **Verify** that the users now appear under the ***"International Sales" OU*** in Active Directory.
 
 <img width="600" alt="Verify" src="https://github.com/franciscovfonseca/Active-Directory-Practical-Scenario-Simulation/assets/172988970/d872f000-83a6-4efb-b176-fee8e3946cca">
 
