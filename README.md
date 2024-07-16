@@ -20,9 +20,11 @@ In this project, we'll simulate various scenarios to enhance our understanding o
 
 <h2>Prerequisites</h2>
 
-- <a href="https://github.com/franciscovfonseca/Active-Directory-and-Azure-Setup/blob/main/README.md"> Preliminary Setup for Active Directory and Network Traffic Analysis between Azure VMs </a>
-- <a href="https://github.com/franciscovfonseca/Active-Directory-Deployment-and-Configuration/blob/main/README.md"> Active Directory Deployment and Configuration </a>
-- <a href="https://github.com/franciscovfonseca/Active-Directory-User-Generation/blob/main/README.md">Active Directory: User Generation </a>
+1. <a href="https://github.com/franciscovfonseca/Active-Directory-and-Azure-Setup/blob/main/README.md"> Active Directory Setup & Network Traffic Analysis between Azure VMs </a>
+
+2. <a href="https://github.com/franciscovfonseca/Active-Directory-Deployment-and-Configuration/blob/main/README.md"> Active Directory Deployment & Configuration </a>
+
+3. <a href="https://github.com/franciscovfonseca/Active-Directory-User-Generation/blob/main/README.md"> Active Directory User Generation with PowerShell </a>
 <br>
 
 <h2>Key Objectives</h2>
