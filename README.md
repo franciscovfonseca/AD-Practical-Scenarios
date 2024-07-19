@@ -29,11 +29,11 @@ In this project, we'll simulate various scenarios to enhance our understanding o
 
 <h2>Key Objectives</h2>
 
-<h3>🟢 Scenario Simulation</h3>
+<h3>✔️ Scenario Simulation</h3>
 
 - Engage in practical simulations of diverse scenarios, such as password resets, group membership changes, and account deactivations.
 
-<h3>🟢 Troubleshooting Scenarios</h3>
+<h3>✔️ Troubleshooting Scenarios</h3>
 
 - Develop troubleshooting skills by simulating scenarios where users encounter access issues, and learn to identify and resolve these challenges effectively.
 <br>
