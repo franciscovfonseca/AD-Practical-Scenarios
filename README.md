@@ -114,8 +114,6 @@ In this project, we'll simulate various scenarios to enhance our understanding o
 
 <br>
 <br>
-
-<h2></h2>
    
 <br>
 
@@ -171,10 +169,8 @@ In this project, we'll simulate various scenarios to enhance our understanding o
 ✔ Remind Sarah to update the password on any additional devices or applications where the old password was saved.
 
 
-<br>
-<br>
 
-<h2></h2>
+<br>
 
 <br>
 
@@ -239,8 +235,6 @@ In this project, we'll simulate various scenarios to enhance our understanding o
 ✔ Communicate the changes to other relevant parties, such as the IT security team, to maintain awareness.
 
 ✔ Verify that Emma's access permissions are correctly configured after the group membership update.
-
-<br>
 
 <br>
 
@@ -312,8 +306,6 @@ In this project, we'll simulate various scenarios to enhance our understanding o
 
 <br>
 
-<br>
-
   </details>
 
 <h2></h2>
@@ -375,6 +367,8 @@ In this project, we'll simulate various scenarios to enhance our understanding o
 <br>
 
   </details>
+
+<h2></h2>
 
 <br>
 
