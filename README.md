@@ -11,10 +11,15 @@
 
 <br>
 
+Welcome to the **Active Directory: Practical Scenario Simulation** Project.
 
-Welcome to the **Active Directory: Practical Scenario Simulation** project.
+In this project, we'll simulate various scenarios to enhance our understanding of ***User Provisioning***, ***Administration*** & ***Problem-Solving*** within **Active Directory**.
 
-In this project, we'll simulate various scenarios to enhance our understanding of ***User Provisioning***, ***Administration***, and ***Problem-Solving*** within **Active Directory**.
+<br>
+
+<p align="center">
+<img src="https://github.com/user-attachments/assets/0f48ae06-6c1e-43a0-b507-f14718091d94" height="90%" width="90%" alt="9"/><br />
+
 <br>
 <br>
 
@@ -31,11 +36,11 @@ In this project, we'll simulate various scenarios to enhance our understanding o
 
 <h3>✅ Scenario Simulation</h3>
 
-- Engage in practical simulations of diverse scenarios, such as password resets, group membership changes, and account deactivations.
+- Engage in Practical Simulations of Diverse Scenarios such as **Password Resets**, **Group Membership Changes** & **Account Deactivations**.
 
 <h3>✅ Troubleshooting Scenarios</h3>
 
-- Develop troubleshooting skills by simulating scenarios where users encounter access issues, and learn to identify and resolve these challenges effectively.
+- Develop Troubleshooting Skills by Simulating Scenarios where Users encounter Access Issues, and learn to **Identify & Resolve these Challenges Effectively**.
 <br>
 
 <h2>Environments and Technologies Used</h2>
