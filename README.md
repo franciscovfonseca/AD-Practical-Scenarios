@@ -7,8 +7,8 @@
 <br>
 
 <br>
+<h1 align="center">Active Directory: Practical Scenario Simulation</h1> 
 
-<h1> Active Directory: Practical Scenario Simulation </h1>
 <br>
 
 
@@ -62,9 +62,9 @@ In this project, we'll simulate various scenarios to enhance our understanding o
 
 **<h3>Understanding the Scenario:</h3>**
 
-- A new software developer, John Smith, has been hired to join the IT department at your company.
-
-- As part of the onboarding process, the IT help desk needs to **Create a New User Account** for John in **Active Directory**.
+> - A new software developer, John Smith, has been hired to join the IT department at your company.
+> 
+> - As part of the onboarding process, the IT help desk needs to **Create a New User Account** for John in **Active Directory**.
 <br>
 
 **<h3>Troubleshooting:</h3>**
@@ -184,11 +184,11 @@ In this project, we'll simulate various scenarios to enhance our understanding o
 
 **<h3>Understanding the Scenario:</h3>**
 
-- Emma Rodriguez, a systems analyst, has recently been promoted to a managerial role within the IT department.
-
-- As part of her new responsibilities, Emma now requires access to specific network resources and project folders.
-
-- The IT help desk needs to **Update Emma's Group Memberships in Active Directory** accordingly.
+> - Emma Rodriguez, a systems analyst, has recently been promoted to a managerial role within the IT department.
+> 
+> - As part of her new responsibilities, Emma now requires access to specific network resources and project folders.
+> 
+> - The IT help desk needs to **Update Emma's Group Memberships in Active Directory** accordingly.
 <br>
 
 **<h3>Troubleshooting:</h3>**
@@ -248,9 +248,9 @@ In this project, we'll simulate various scenarios to enhance our understanding o
 
 **<h3>Understanding the Scenario:</h3>**
 
-- Mark Johnson, a network administrator, has recently resigned from the company. 
-
-- The IT help desk needs to **Deactivate Mark's User Account in Active Directory** to prevent unauthorized access and ensure the security of company resources.
+> - Mark Johnson, a network administrator, has recently resigned from the company. 
+> 
+> - The IT help desk needs to **Deactivate Mark's User Account in Active Directory** to prevent unauthorized access and ensure the security of company resources.
 <br>
 
 **<h3>Troubleshooting:</h3>**
@@ -316,9 +316,9 @@ In this project, we'll simulate various scenarios to enhance our understanding o
 
 **<h3>Understanding the Scenario:</h3>**
 
-- The Sales department has recently undergone a reorganization, resulting in the creation of a new team focused on international sales. 
-
-- The IT help desk needs to reflect this change in the **Active Directory** structure by creating a new **Organizational Unit (OU)** for the International Sales team and **moving relevant user accounts into the new OU**.
+> - The Sales department has recently undergone a reorganization, resulting in the creation of a new team focused on international sales. 
+> 
+> - The IT help desk needs to reflect this change in the **Active Directory** structure by creating a new **Organizational Unit (OU)** for the International Sales team and **moving relevant user accounts into the new OU**.
 <br>
 
 **<h3>Troubleshooting:</h3>**
