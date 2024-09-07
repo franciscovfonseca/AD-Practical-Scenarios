@@ -7,13 +7,13 @@
 <br>
 
 <br>
-<h1 align="center">Active Directory: Practical Scenario Simulation</h1> 
+<h1 align="center">Active Directory: Practical Scenarios</h1> 
 
 <br>
 
-Welcome to the **Active Directory: Practical Scenario Simulation** Project.
+Welcome to the **Active Directory: Practical Scenarios** Project.
 
-In this project, we'll simulate various scenarios to enhance our understanding of ***User Provisioning***, ***Administration*** & ***Problem-Solving*** within **Active Directory**.
+In this project, we'll showcase various scenarios to enhance our understanding of ***User Provisioning***, ***Administration*** & ***Problem-Solving*** within **Active Directory**.
 
 <br>
 
