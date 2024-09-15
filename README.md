@@ -34,11 +34,11 @@ In this project, we'll showcase various scenarios to enhance our understanding o
 
 <h2>Key Objectives</h2>
 
-<h3>✅ Scenario Simulation</h3>
+<h3>➡️ Scenario Simulation</h3>
 
 - Engage in Practical Simulations of Diverse Scenarios such as **Password Resets**, **Group Membership Changes** & **Account Deactivations**.
 
-<h3>✅ Troubleshooting Scenarios</h3>
+<h3>➡️ Troubleshooting Scenarios</h3>
 
 - Develop Troubleshooting Skills by Simulating Scenarios where Users encounter Access Issues, and learn to **Identify & Resolve these Challenges Effectively**.
 <br>
@@ -389,10 +389,13 @@ In summary, **Active Directory** is crucial for **Managing User Accounts and Net
 
 The scenarios provided cover common IT help desk tasks, such as:
 
-- **Creating User Accounts**
-- **Resetting Passwords**
-- **Updating Group Memberships**
-- **Handling Account Deactivation**
+✅ **Creating User Accounts**
+
+✅ **Resetting Passwords**
+
+✅ **Updating Group Memberships**
+
+✅ **Handling Account Deactivation**
 
 <br>
 
